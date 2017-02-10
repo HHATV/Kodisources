@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mediabuild1.0" name="Tony's Repository" version="1.0" provider-name="Michal">
+    <extension point="xbmc.addon.repository" name="Tony's Repository">
+        <info compressed="false">https://github.com/HHATV/Kodisources/blob/master/mediabuild/Files/addons.xml</info>
+        <checksum>https://github.com/HHATV/Kodisources/blob/master/mediabuild/Files/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/HHATV/Kodisources/blob/master/mediabuild/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Tony's Kodi Repository</summary>
+        <summary lang="pl">by Tony</summary>
+        <summary lang="en">Build Wizard & Addon repository</summary>
+        <description>Unofficial, Private repository.</description>
+        <disclaimer>Repository has non-comercial nature. Just for fun</disclaimer>
+        <disclaimer lang="pl">Use at you own risk.</disclaimer>
+        <platform>all</platform>
+        <website>https://github.com/ramicspa/kodi</website>
+        <email>hhatv2@gmail.com</email>
+    </extension>
+</addon>
