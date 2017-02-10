@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.mediacenter1.0" name="Tony's Wizard" version="1.0" provider-name="Tony">
+<addon id="plugin.video.mediacenter1.0.zip" name="Tony's Wizard" version="1.0" provider-name="Tony">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
